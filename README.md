@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-Skills: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white, https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen, https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B, ttps://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
+Skills: ![]https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white, ![]https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen, ![]https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B, ![]https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
 
 
 Connect with me:
