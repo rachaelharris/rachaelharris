@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm a current student at [https://allegheny.edu/](Allegheny College) studying Computer Science, Political Science, and Philosophy
+- I'm a current student at (Allegheny College)[https://allegheny.edu/] studying Computer Science, Political Science, and Philosophy
 - Passionate about policy surrounding data ethics
 - Checkout what I'm currently working on 👇🏻
 
