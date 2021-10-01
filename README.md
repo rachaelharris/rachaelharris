@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Rachael
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rachael-harris19/)
+![profileviews](https://komarev.com/ghpvc/?username=rachaelharris&color=green)
 
 
 
@@ -23,26 +25,41 @@ Here are some ideas to get you started:
 - Checkout what I'm currently working on 👇🏻
 
 
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachaelharris&show_icons=true&theme=radical" />
+</a>
+<br>
+<br>
+
+<a href="https://github.com/rachaelharris">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rachaelharris&show_icons=true&theme=radical" alt="Rachael's GitHub Stats" />
+</a>
+
+<br>
+<br>
+
+## 💼 Skills
 
 
-![Rachael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachaelharris&show_icons=true&theme=radical)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
+<details>
+<summary>More Skills</summary>
 
+<br>
 
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+  
 
-
-Skills: 
-
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![mongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-
-
-Connect with me:
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rachael-harris19/)
-
-
-
-![profileviews](https://komarev.com/ghpvc/?username=rachaelharris&color=green)
