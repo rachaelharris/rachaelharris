@@ -41,8 +41,7 @@ Skills:
 
 Connect with me:
 
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/rachael-harris19/))
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:harrisr@allegheny.edu))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rachael-harris19/)
 
 
 
