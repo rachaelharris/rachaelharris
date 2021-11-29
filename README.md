@@ -1,4 +1,4 @@
-[<img alt="Screen Shot 2021-11-29 at 3 44 35 PM" src="https://user-images.githubusercontent.com/54785104/143942212-d5357b58-bb89-4531-a096-870d2b28a7cb.png" class="responsive">](rachaelharris.xyz)
+[<img alt="Screen Shot 2021-11-29 at 3 44 35 PM" src="https://user-images.githubusercontent.com/54785104/143942212-d5357b58-bb89-4531-a096-870d2b28a7cb.png" class="responsive">](https://rachaelharris.xyz)
 
 # Hi there 👋, I'm Rachael
 ![](https://img.shields.io/badge/OS-MacOS-181717?style=flat&logo=apple&color=white)
