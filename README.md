@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👩🏻‍💻 I'm a current student at [Allegheny College](https://allegheny.edu/) studying Computer Science, Political Science, and Philosophy
 - 🔐 Passionate about policy surrounding data ethics
-- 👥 Follow my journey on [LinkedIn](https://www.linkedin.com/in/rachael-harris19/) and my [Portfolio Website](rachaelharris.xyz)
+- 👥 Follow my journey on [LinkedIn](https://www.linkedin.com/in/rachael-harris19/) and my [Portfolio Website](http://www\.rachaelharris.xyz)
 - Check out what I'm currently working on 👇🏻
 
 
