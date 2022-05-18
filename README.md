@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩🏻‍💻 I'm a current student at [Allegheny College](https://allegheny.edu/) studying Computer Science, Political Science, and Philosophy
+- 👩🏻‍💻 I'm a current student at [Carnegie Mellon Uninversity](https://www.cmu.edu/) pursuing a [Master's in Information Security Policy and Management](https://www.heinz.cmu.edu/programs/information-security-policy-management-master/)
+- 📚 I'm an alumna of [Allegheny College](https://allegheny.edu/) with a B.S. in Computer Science with minors in Political Science and Philosophy
 - 🔐 Passionate about policy surrounding data ethics
 - 👥 Follow my journey on [LinkedIn](https://www.linkedin.com/in/rachael-harris19/) and my [Portfolio Website](http://www\.rachaelharris.xyz)
 - Check out what I'm currently working on 👇🏻
