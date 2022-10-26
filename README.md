@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ## 📫 Get @ Me
 
-[📩 harrisr@allegheny.edu](mailto:harrisr@allegheny.edu)
+[📩 rharris2@andrew.cmu.edu](mailto:rharris2@andrew.cmu.edu)
 [🔗 @rachael-harris19](https://www.linkedin.com/in/rachael-harris19/)
 
 
